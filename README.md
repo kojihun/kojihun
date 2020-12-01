@@ -3,7 +3,7 @@
 
 :wave: Hello! My name is **kojihun**, I'm a DoneEui-Univ student
 
- My major is **game animation engineering:video_game:**, and **computer software engineering:computer:**. I have project experience using **Java**, javascript, HTML & CSS, Android, Python, c++. I'm interested in **web & application**.
+ My major is **game animation engineering:video_game:** and **computer software engineering:computer:**. I have project experience using **Java**, javascript, HTML & CSS, Android, Python, c++. I'm interested in **web & application**.
 
 ### :purple_heart: Career
 
