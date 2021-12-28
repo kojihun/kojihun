@@ -10,7 +10,7 @@
 | **Type** | **Date** | **Contents** | **Organization** |
 |:--------:|:--------:|:--------:|:--------:|
 | **:mortar_board: Education** | 2014. 3 ~ 2021. 2 | Game Animation & Computer Software Engineering | **Dongeui University** |
-| **Research activities** | 2019. 3 ~ 2019. 12 | Undergraduate Research Students | **Dongeui Univ. game animation engineering Lab** |
+| **Research activities** | 2019. 3 ~ 2019. 9 | Undergraduate Research Students | **Dongeui Univ. game animation engineering Lab** |
 
 ### :diamond_shape_with_a_dot_inside: Languages
 
